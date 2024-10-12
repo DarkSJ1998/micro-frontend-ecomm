@@ -1,2 +1,3 @@
-# micro-frontend-ecomm
-A personal project for practicing Micro-frontend architecture using Webpack
+# microfrontend-ecomm
+
+A personal project for practicing Microfrontend architecture using Webpack
